@@ -1,0 +1,35 @@
+body{
+  background-color: black;
+  font-size: 25px;
+}
+div{
+  background-color: green;
+}
+
+#background{
+  background-color: black;
+}
+
+#main{
+  color: white;
+  height: 150px;
+}
+
+#fir1{
+  background-color:red;
+  color:blue;
+}
+
+#fir2{
+  background-color:blue;
+  color:red;
+}
+#sec{
+  background-color:black;
+  color:white;
+}
+
+#thr{
+  background-color:white;
+  color:black;
+}
